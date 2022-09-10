@@ -20,7 +20,6 @@ public class Main {
         return (getSecondFullS(r2) - getFirstFullS(r1)) / cnt;
     }
 
-
     public static double getThirdFullS(double r3) {
         return Math.PI * r3 * r3;
     }
